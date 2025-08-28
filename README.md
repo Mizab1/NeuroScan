@@ -34,3 +34,10 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 Special thanks to the creators of the publicly available dataset and to the open-source community for providing the tools and resources that made this project possible.
+
+## Images
+<img src="assets/showcase/brain_1.png" width="500" height="500" />
+<img src="assets/showcase/brain_2.png" width="500" height="500" />
+<img src="assets/showcase/brain_3.png" width="500" height="500" />
+<img src="assets/showcase/brain_4.png" width="500" height="500" />
+<img src="assets/showcase/brain_5.png" width="500" height="500" />
