@@ -3,6 +3,9 @@
 ## Introduction
 Brain tumors are life-threatening, and detecting them early is crucial for effective treatment. However, detecting brain tumors and identifying their type requires highly skilled professionals and can be time-consuming and costly. This project aims to aid doctors by providing a deep learning-based solution to detect brain tumors and their types from MRI images, thus reducing the time and cost involved in diagnosis.
 
+## Live Demo
+A fully functional frontend for this AI model is deployed on Vercel. You can interact with the live application here: [NeuroScan Web Interface](https://neuroscan-cnn.vercel.app/)
+
 ## Dataset
 The dataset used in this project is publicly available on GitHub and contains over 2000 MRI images of the brain. To prepare the data for model training, several preprocessing steps were performed, including resizing the images, normalization, and more. Link to the dataset can be found [here](https://github.com/sartajbhuvaji/brain-tumor-classification-dataset)
 
